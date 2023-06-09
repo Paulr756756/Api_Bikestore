@@ -1,0 +1,30 @@
+D:\My Projects\Enterprise Level Projects\API_PaulBikeStore\BusinessLayer_PaulBikeStore\bin\Release\net6.0\BusinessLayer_PaulBikeStore.deps.json
+D:\My Projects\Enterprise Level Projects\API_PaulBikeStore\BusinessLayer_PaulBikeStore\bin\Release\net6.0\BusinessLayer_PaulBikeStore.dll
+D:\My Projects\Enterprise Level Projects\API_PaulBikeStore\BusinessLayer_PaulBikeStore\bin\Release\net6.0\BusinessLayer_PaulBikeStore.pdb
+D:\My Projects\Enterprise Level Projects\API_PaulBikeStore\BusinessLayer_PaulBikeStore\bin\Release\net6.0\DomainLayer_PaulBikeStore.dll
+D:\My Projects\Enterprise Level Projects\API_PaulBikeStore\BusinessLayer_PaulBikeStore\bin\Release\net6.0\DomainLayer_PaulBikeStore.pdb
+D:\My Projects\Enterprise Level Projects\API_PaulBikeStore\BusinessLayer_PaulBikeStore\obj\Release\net6.0\BusinessLayer_PaulBikeStore.csproj.AssemblyReference.cache
+D:\My Projects\Enterprise Level Projects\API_PaulBikeStore\BusinessLayer_PaulBikeStore\obj\Release\net6.0\BusinessLayer_PaulBikeStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Enterprise Level Projects\API_PaulBikeStore\BusinessLayer_PaulBikeStore\obj\Release\net6.0\BusinessLayer_PaulBikeStore.AssemblyInfoInputs.cache
+D:\My Projects\Enterprise Level Projects\API_PaulBikeStore\BusinessLayer_PaulBikeStore\obj\Release\net6.0\BusinessLayer_PaulBikeStore.AssemblyInfo.cs
+D:\My Projects\Enterprise Level Projects\API_PaulBikeStore\BusinessLayer_PaulBikeStore\obj\Release\net6.0\BusinessLayer_PaulBikeStore.csproj.CoreCompileInputs.cache
+D:\My Projects\Enterprise Level Projects\API_PaulBikeStore\BusinessLayer_PaulBikeStore\obj\Release\net6.0\BusinessLayer_PaulBikeStore.csproj.CopyComplete
+D:\My Projects\Enterprise Level Projects\API_PaulBikeStore\BusinessLayer_PaulBikeStore\obj\Release\net6.0\BusinessLayer_PaulBikeStore.dll
+D:\My Projects\Enterprise Level Projects\API_PaulBikeStore\BusinessLayer_PaulBikeStore\obj\Release\net6.0\refint\BusinessLayer_PaulBikeStore.dll
+D:\My Projects\Enterprise Level Projects\API_PaulBikeStore\BusinessLayer_PaulBikeStore\obj\Release\net6.0\BusinessLayer_PaulBikeStore.pdb
+D:\My Projects\Enterprise Level Projects\API_PaulBikeStore\BusinessLayer_PaulBikeStore\obj\Release\net6.0\ref\BusinessLayer_PaulBikeStore.dll
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\API_PaulBikeStore\BusinessLayer_PaulBikeStore\bin\Release\net6.0\BusinessLayer_PaulBikeStore.deps.json
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\API_PaulBikeStore\BusinessLayer_PaulBikeStore\bin\Release\net6.0\BusinessLayer_PaulBikeStore.dll
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\API_PaulBikeStore\BusinessLayer_PaulBikeStore\bin\Release\net6.0\BusinessLayer_PaulBikeStore.pdb
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\API_PaulBikeStore\BusinessLayer_PaulBikeStore\bin\Release\net6.0\DomainLayer_PaulBikeStore.dll
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\API_PaulBikeStore\BusinessLayer_PaulBikeStore\bin\Release\net6.0\DomainLayer_PaulBikeStore.pdb
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\API_PaulBikeStore\BusinessLayer_PaulBikeStore\obj\Release\net6.0\BusinessLayer_PaulBikeStore.csproj.AssemblyReference.cache
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\API_PaulBikeStore\BusinessLayer_PaulBikeStore\obj\Release\net6.0\BusinessLayer_PaulBikeStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\API_PaulBikeStore\BusinessLayer_PaulBikeStore\obj\Release\net6.0\BusinessLayer_PaulBikeStore.AssemblyInfoInputs.cache
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\API_PaulBikeStore\BusinessLayer_PaulBikeStore\obj\Release\net6.0\BusinessLayer_PaulBikeStore.AssemblyInfo.cs
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\API_PaulBikeStore\BusinessLayer_PaulBikeStore\obj\Release\net6.0\BusinessLayer_PaulBikeStore.csproj.CoreCompileInputs.cache
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\API_PaulBikeStore\BusinessLayer_PaulBikeStore\obj\Release\net6.0\BusinessLayer_PaulBikeStore.csproj.CopyComplete
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\API_PaulBikeStore\BusinessLayer_PaulBikeStore\obj\Release\net6.0\BusinessLayer_PaulBikeStore.dll
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\API_PaulBikeStore\BusinessLayer_PaulBikeStore\obj\Release\net6.0\refint\BusinessLayer_PaulBikeStore.dll
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\API_PaulBikeStore\BusinessLayer_PaulBikeStore\obj\Release\net6.0\BusinessLayer_PaulBikeStore.pdb
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\API_PaulBikeStore\BusinessLayer_PaulBikeStore\obj\Release\net6.0\ref\BusinessLayer_PaulBikeStore.dll

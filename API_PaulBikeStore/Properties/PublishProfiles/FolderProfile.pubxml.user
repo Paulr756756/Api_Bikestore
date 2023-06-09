@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\paulr\Documents\published\PaulBikeStoreAPI</_PublishTargetUrl>
+    <History>True|2023-06-04T17:48:01.5716331Z;True|2023-06-04T22:24:37.3766774+05:30;True|2023-06-04T22:21:58.4381755+05:30;True|2023-05-02T03:10:51.7196723+05:30;True|2023-05-02T01:39:41.4190156+05:30;True|2023-05-02T01:37:41.3534742+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="PaulBikeStoreDB">
+      <Value>Server=DESKTOP-9NPH13V%3bDatabase=PaulBikeStore%3bTrusted_Connection=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
