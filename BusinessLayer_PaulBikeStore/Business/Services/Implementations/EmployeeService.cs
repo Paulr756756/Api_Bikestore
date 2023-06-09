@@ -25,9 +25,10 @@ namespace BusinessLayer_PaulBikeStore.Business.Services.Implementations
 
         }
 
-        /*public async Task<DTOEmployee> GetEmployeeByID()
+        //
+        public async Task<List<Employee>> GetEmployeeById(int id)
         {
-            return await Task.FromResult();
-        }*/
+            return _mapper.Map<List<DTOEmployee>, List<Employee>>(await _employeeRepository.GetEmployeesById(id));
+        }
     }
 }

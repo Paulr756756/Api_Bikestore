@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cDSyMQ3wauDzqMYOMQjLR1rGvlbNJg3daC2zJHHl8lUL+Ic5t42Hk1BuJMeddbOW1B4D2dOoX4CHAmRuGDXUxw==",
+  "dgSpecHash": "miGMt/0kHAzLCCFnVomN4bgOQq4BHrYQ1HrwDmmxzdakD3yleIaLXZSZiXP/OQ+5673rydsJdE4ZCKZPFu/MGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\paulr\\Documents\\projecto\\API_PaulBikeStore\\API_PaulBikeStore\\API_PaulBikeStore\\API_PaulBikeStore.csproj",
+  "projectFilePath": "C:\\Users\\paulr\\Documents\\projecto\\API_PaulBikeStore\\API_PaulBikeStore\\API_PaulBikeStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paulr\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\paulr\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

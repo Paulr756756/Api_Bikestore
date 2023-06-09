@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q6zY9zNxciqvHd3WqfC3I3FLkgwUBEMfQf3Ix/XXk+d3Byyoj/V+/JthYOd+h3pP2GyGcQal36ZBzfM6h1yf2Q==",
+  "dgSpecHash": "5we9YXWKuxRVNeSo5GtemFahQN54jzr8AayhRuBwBdD3OBIdFD3ClMoCdmLVTYJtXNlEDmJ8INIyO1Af7NqApg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\paulr\\Documents\\projecto\\API_PaulBikeStore\\API_PaulBikeStore\\DomainLayer_PaulBikeStore\\DomainLayer_PaulBikeStore.csproj",
+  "projectFilePath": "C:\\Users\\paulr\\Documents\\projecto\\API_PaulBikeStore\\DomainLayer_PaulBikeStore\\DomainLayer_PaulBikeStore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

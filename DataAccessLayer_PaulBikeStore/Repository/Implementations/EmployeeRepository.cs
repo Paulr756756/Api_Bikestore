@@ -32,9 +32,17 @@ namespace DataAccessLayer_PaulBikeStore.Repository.Implementations
             return await baseRepository.Get<DTOEmployee>(databaseModel);
         }
 
-        public Task<List<DTOEmployee>> GetEmployeesById(int employeeId)
+        //
+        public async Task<List<DTOEmployee>> GetEmployeesById(int employeeId)
         {
-            throw new NotImplementedException();
+            List<SqlParameter> objParam = new List<SqlParameter>()
+            {
+                new SqlParameter{ ParameterName = "@staffId", Direction = ParameterDirection.Input, DbType = DbType.String, Value = employeeId}
+            };
+            DatabaseModel databaseModel = new DatabaseModel() { ProcedureName = EmployeeRepositoryProcedures.Proc_GetEmployeesById, CommandType = CommandType.StoredProcedure, SqlParameters = objParam };
+
+            return await baseRepository.GetById<DTOEmployee>(databaseModel);
+            /*throw new NotImplementedException();*/
         }
     }
 }

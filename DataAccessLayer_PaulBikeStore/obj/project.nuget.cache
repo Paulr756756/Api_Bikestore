@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3zVpRVJ9Bz5oTlwnv1Ffi3sB9nm3sl4l4/s0P+ROuvaNd9+uELthjetK0p8NUpM7kSv4Y57b2ke04JEAKd63ew==",
+  "dgSpecHash": "LAivyxN8IjS+Bk2AlUDGwqp5T0Wog0fBHQNbpVOYWCSBRgLzPq1tPHYkKubJsBaTbDnGZQBaO15gD5srP6iA9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\paulr\\Documents\\projecto\\API_PaulBikeStore\\API_PaulBikeStore\\DataAccessLayer_PaulBikeStore\\DataAccessLayer_PaulBikeStore.csproj",
+  "projectFilePath": "C:\\Users\\paulr\\Documents\\projecto\\API_PaulBikeStore\\DataAccessLayer_PaulBikeStore\\DataAccessLayer_PaulBikeStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paulr\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\paulr\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

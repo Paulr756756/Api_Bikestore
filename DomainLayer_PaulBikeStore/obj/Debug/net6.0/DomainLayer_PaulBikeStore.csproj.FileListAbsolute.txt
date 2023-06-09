@@ -34,3 +34,15 @@ C:\Users\paulr\Documents\projecto\API_PaulBikeStore\API_PaulBikeStore\DomainLaye
 C:\Users\paulr\Documents\projecto\API_PaulBikeStore\API_PaulBikeStore\DomainLayer_PaulBikeStore\obj\Debug\net6.0\refint\DomainLayer_PaulBikeStore.dll
 C:\Users\paulr\Documents\projecto\API_PaulBikeStore\API_PaulBikeStore\DomainLayer_PaulBikeStore\obj\Debug\net6.0\DomainLayer_PaulBikeStore.pdb
 C:\Users\paulr\Documents\projecto\API_PaulBikeStore\API_PaulBikeStore\DomainLayer_PaulBikeStore\obj\Debug\net6.0\ref\DomainLayer_PaulBikeStore.dll
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\DomainLayer_PaulBikeStore\bin\Debug\net6.0\DomainLayer_PaulBikeStore.deps.json
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\DomainLayer_PaulBikeStore\bin\Debug\net6.0\DomainLayer_PaulBikeStore.dll
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\DomainLayer_PaulBikeStore\bin\Debug\net6.0\DomainLayer_PaulBikeStore.pdb
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\DomainLayer_PaulBikeStore\obj\Debug\net6.0\DomainLayer_PaulBikeStore.csproj.AssemblyReference.cache
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\DomainLayer_PaulBikeStore\obj\Debug\net6.0\DomainLayer_PaulBikeStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\DomainLayer_PaulBikeStore\obj\Debug\net6.0\DomainLayer_PaulBikeStore.AssemblyInfoInputs.cache
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\DomainLayer_PaulBikeStore\obj\Debug\net6.0\DomainLayer_PaulBikeStore.AssemblyInfo.cs
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\DomainLayer_PaulBikeStore\obj\Debug\net6.0\DomainLayer_PaulBikeStore.csproj.CoreCompileInputs.cache
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\DomainLayer_PaulBikeStore\obj\Debug\net6.0\DomainLayer_PaulBikeStore.dll
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\DomainLayer_PaulBikeStore\obj\Debug\net6.0\refint\DomainLayer_PaulBikeStore.dll
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\DomainLayer_PaulBikeStore\obj\Debug\net6.0\DomainLayer_PaulBikeStore.pdb
+C:\Users\paulr\Documents\projecto\API_PaulBikeStore\DomainLayer_PaulBikeStore\obj\Debug\net6.0\ref\DomainLayer_PaulBikeStore.dll

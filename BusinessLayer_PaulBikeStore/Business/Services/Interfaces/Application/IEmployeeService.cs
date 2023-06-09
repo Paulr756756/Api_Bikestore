@@ -11,5 +11,6 @@ namespace BusinessLayer_PaulBikeStore.Business.Services.Interfaces.Application
     public interface IEmployeeService
     {
         Task<List<Employee>> GetAllEmployees(PageModel pageModel);
+        Task<List<Employee>> GetEmployeeById(int id);
     }
 }

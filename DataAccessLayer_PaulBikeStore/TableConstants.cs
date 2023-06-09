@@ -25,6 +25,7 @@ namespace DataAccessLayer_PaulBikeStore
     {
 
         public const string Proc_GetAllEmployees = "BKS_GetAllEmployeesFiltered";
+        public const string Proc_GetEmployeesById = "BKS_GetAllEmployeesFiltered";
     
     }
     public class ProfitRepositoryProcedure

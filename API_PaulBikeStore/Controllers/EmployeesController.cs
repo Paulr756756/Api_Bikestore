@@ -12,25 +12,26 @@ namespace API_PaulBikeStore.Controllers
     [ApiController]
     public class EmployeesController : ControllerBase
     {
-        private readonly IEmployeeService employeeService;
+        private readonly IEmployeeService _employeeService;
         public EmployeesController(IEmployeeService employeeService)
         {
-            this.employeeService = employeeService;
+            this._employeeService = employeeService;
         }
 
         // GET: api/<EmployeesController>
         [HttpGet]
         public async Task<ActionResponse<object>> GetAllEmployeeDetails([FromQuery] PageModel pageModel)
         {
-            var response = await employeeService.GetAllEmployees(pageModel);
+            var response = await _employeeService.GetAllEmployees(pageModel);
             return CustomActionResponse.CreateActionResponse<object>(HttpStatusCode.OK, responseObject: response);
         }
 
         // GET api/<EmployeesController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public async Task<ActionResponse<object>> GetEmployeeById(int id)
         {
-            return "value";
+            var response = await _employeeService.GetEmployeeById(id);
+            return CustomActionResponse.CreateActionResponse<object>(HttpStatusCode.OK, responseObject: response);
         }
 
         // POST api/<EmployeesController>
